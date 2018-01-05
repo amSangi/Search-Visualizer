@@ -4,7 +4,7 @@ set the heuristic if the algorithm is informed, and choose whether diagonal trav
   
 
 ## Download ##
-Binary distribution can be found in the releases section
+Binary distribution can be found in the [releases](https://github.com/amSangi/Search-Visualizer/releases) section
 
 ## Compiling ##
 Clone the repository and run it in Unity
