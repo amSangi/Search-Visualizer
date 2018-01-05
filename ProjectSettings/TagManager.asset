@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - StartNode
+  - EndNode
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BG
+  - Start
+  - End
+  - Collision
+  - Cursor
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 648316491
+    locked: 0
+  - name: SearchPath
+    uniqueID: 1084051585
+    locked: 0
+  - name: Collision
+    uniqueID: 3420554801
+    locked: 0
+  - name: Node
+    uniqueID: 2234729405
+    locked: 0
+  - name: Select
+    uniqueID: 872184853
+    locked: 0
+  - name: UI
+    uniqueID: 3309672943
+    locked: 0
