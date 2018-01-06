@@ -1,7 +1,9 @@
 ## About ##
 A 2D maze-like graph search algorithm visualizer using Unity. Users can create mazes, set the specific search algorithm to visualize,
 set the heuristic if the algorithm is informed, and choose whether diagonal traversal should be enabled. 
-  
+
+## Screenshot ##
+![BFS Screenshot](/Screenshots/BFS_Screenshot.png)
 
 ## Download ##
 Binary distribution can be found in the [releases](https://github.com/amSangi/Search-Visualizer/releases) section
